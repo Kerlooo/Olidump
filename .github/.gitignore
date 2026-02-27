@@ -1,4 +1,4 @@
-myenv/
-.env
-*.egg-info/
-__pycache__/
+../myenv/
+../.env
+../*.egg-info/
+../__pycache__/
