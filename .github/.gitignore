@@ -1,4 +1,5 @@
 ../myenv/
 ../.env
-../*.egg-info/
+*.egg-info/
 ../__pycache__/
+../build
