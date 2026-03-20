@@ -15,7 +15,7 @@ def main():
         print(f"File non trovato. Creazione del template in {config_file}...")
 
         template = {
-            "username": "INSERISCI_QUI_USERNAME", 
+            "email": "INSERISCI_QUI_LA_EMAIL", 
             "password": "INSERISCI_QUI_PASSWORD"
         }
         
